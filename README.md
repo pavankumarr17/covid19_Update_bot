@@ -1,4 +1,7 @@
 # covid19_Update_bot
+
+This project is of IBM Call for Code Global Challenge 2020
+
 ![Screenshot (153)](https://user-images.githubusercontent.com/38040515/118494167-7d6c3c00-b73f-11eb-8406-502545a6729b.png)
 
 ![Screenshot (155)](https://user-images.githubusercontent.com/38040515/118494564-ea7fd180-b73f-11eb-90e9-eb25d1e7fc0a.png)
